@@ -1,2 +1,4 @@
 # text2img
-stablediffusion_512*512
+Sentense to Image 
+using stablediffusion
+512*512
